@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartLoadScene.unity
     guid: 2d5e32b53d6a1da4c8934c95947da6e1
+  - enabled: 1
+    path: Assets/Scenes/BossModelScene.unity
+    guid: d6e064a9349d35d4987870bed8aac32b
+  - enabled: 1
+    path: Assets/Scenes/BossOptionScene.unity
+    guid: d333802a3979b0a4683cb858085ad075
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 092bcd0b653981049b5e09437623118a
+  - enabled: 1
+    path: Assets/Scenes/NormalModelScene.unity
+    guid: 86bf9e3544269b440810229ab1fd8d78
+  - enabled: 1
+    path: Assets/Scenes/NormalOptionScene.unity
+    guid: b8c8e54d93f1c494d9714554f5bac514
   m_configObjects: {}
