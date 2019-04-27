@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+#Pack打出来的包全部忽略
+/Pack
